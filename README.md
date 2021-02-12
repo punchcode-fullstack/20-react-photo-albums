@@ -32,3 +32,25 @@ We're going to create a photo gallery application which allows users to view the
 
 ## You May Need
 - [Free photos from Unsplash](https://unsplash.com)
+
+
+# things to note
+
+- to install (in same folder as package.json)
+- in albums
+- in root (outside of albums)
+
+```yarn install```
+
+
+- to run react app and json-server (recommended)
+
+```yarn run start```
+
+- to run react app by itself
+
+```yarn run client```
+
+- to run server only
+
+```yarn run server```
