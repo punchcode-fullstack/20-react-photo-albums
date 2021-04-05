@@ -38,7 +38,6 @@ We're going to create a photo gallery application which allows users to view the
 
 - to install (in same folder as package.json)
 - in albums
-- in root (outside of albums)
 
 ```yarn install```
 
